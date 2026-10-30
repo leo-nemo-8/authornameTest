@@ -1,6 +1,6 @@
 ---
 title: test
-author: Leonid Nemolovskyi
+author: Leonado Nemolovskyi (test)
 hidden: true
 published_at: '2026-10-27T15:05:18.904Z'
 ---
