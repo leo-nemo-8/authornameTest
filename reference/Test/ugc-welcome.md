@@ -5,4 +5,4 @@ hidden: false
 metadata:
   robots: index
 ---
-Редірект спрацював
+[Редірект](doc:delete-test-1) спрацював
